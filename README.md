@@ -34,6 +34,3 @@ This project represents a full-stack (or front-end/back-end depending on your im
 - REST API
 - Postman / Insomnia
 
----
-
-## 📂 Project Structure
